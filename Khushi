@@ -1,0 +1,15 @@
+
+Git and GitHub are essential tools in modern software development, used for version control, collaboration, and code management. Here’s how they function:
+
+Git:
+
+A distributed version control system (VCS) that tracks changes in code.
+Allows multiple developers to work on a project simultaneously without overwriting each other’s changes.
+Enables branching, merging, and rollback to previous versions if needed.
+Works locally on a developer’s machine but can connect to remote repositories.
+GitHub:
+
+A cloud-based platform that hosts Git repositories.
+Provides tools for team collaboration, such as issue tracking, pull requests, and code reviews.
+Allows open-source and private projects to be shared and contributed to.
+Integrates with CI/CD pipelines, project management tools, and other development workflows.
